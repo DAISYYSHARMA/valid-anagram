@@ -1,5 +1,5 @@
 # valid-anagram
-A C++ program that checks whether two given strings are valid anagrams by comparing the frequency of each character.
+A C++ program that checks whether two given strings are valid anagrams by using character frequency comparison.
 
 #include <iostream>
 #include <unordered_map>
